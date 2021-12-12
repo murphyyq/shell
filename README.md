@@ -1,0 +1,2 @@
+# shell
+wget için shell
